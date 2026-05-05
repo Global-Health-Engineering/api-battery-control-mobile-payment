@@ -1,0 +1,60 @@
+
+          NX-IFC Export
+
+File to export: C:\CAD\NXData\Projekte\001_000001_11_M_MasterThesis_charger.prt
+
+INFO: Options
+INFO: -------
+INFO: Export Brep As.....: ifc2x3
+INFO: Chordal Tolerance..: 0.080000 millimeters
+INFO: Angular Tolerance..: 18.000000 degrees
+INFO: 
+INFO:       Summary of IFC Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: IfcApplication ...........................................:   1
+INFO: IfcAxis2Placement3D ......................................:   28
+INFO: IfcBuilding ..............................................:   1
+INFO: IfcBuildingElementProxy ..................................:   1
+INFO: IfcCartesianPoint ........................................:   3902
+INFO: IfcCartesianTransformationOperator3D .....................:   5
+INFO: IfcCircle ................................................:   26
+INFO: IfcClosedShell ...........................................:   3
+INFO: IfcColourRgb .............................................:   1
+INFO: IfcDirection .............................................:   275
+INFO: IfcFace ..................................................:   7312
+INFO: IfcFaceOuterBound ........................................:   7312
+INFO: IfcFacetedBrep ...........................................:   3
+INFO: IfcGeometricCurveSet .....................................:   85
+INFO: IfcGeometricRepresentationContext ........................:   1
+INFO: IfcLine ..................................................:   219
+INFO: IfcLocalPlacement ........................................:   2
+INFO: IfcMappedItem ............................................:   5
+INFO: IfcOrganization ..........................................:   1
+INFO: IfcOwnerHistory ..........................................:   1
+INFO: IfcPerson ................................................:   1
+INFO: IfcPersonAndOrganization .................................:   1
+INFO: IfcPolyLoop ..............................................:   7312
+INFO: IfcPresentationStyleAssignment ...........................:   3
+INFO: IfcProductDefinitionShape ................................:   1
+INFO: IfcProject ...............................................:   1
+INFO: IfcPropertySet ...........................................:   3
+INFO: IfcPropertySingleValue ...................................:   15
+INFO: IfcRelAggregates .........................................:   1
+INFO: IfcRelContainedInSpatialStructure ........................:   1
+INFO: IfcRelDefinesByProperties ................................:   3
+INFO: IfcRepresentationMap .....................................:   5
+INFO: IfcShapeRepresentation ...................................:   6
+INFO: IfcSIUnit ................................................:   2
+INFO: IfcStyledItem ............................................:   3
+INFO: IfcSurfaceStyle ..........................................:   3
+INFO: IfcSurfaceStyleRendering .................................:   3
+INFO: IfcTrimmedCurve ..........................................:   245
+INFO: IfcUnitAssignment ........................................:   1
+INFO: IfcVector ................................................:   219
+INFO:                                                              -------
+INFO: Total                                                         27013
+
+Export Successful!
+Output file : C:\Users\faepa\Downloads\Charger1.1.ifc
