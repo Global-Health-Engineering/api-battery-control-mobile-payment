@@ -2,9 +2,9 @@
   <img width="538" alt="System Image" src="https://github.com/user-attachments/assets/a7082a3b-5d5e-4192-bf68-f2cdd62629f4" />
 </p>
 
-## PAYGO Charging System – Prototype
+## PAYG Charging System – Prototype
 
-This project presents a complete prototype of a **Pay-As-You-Go (PAYGO) charging system** designed to enable flexible, low-cost access to energy without requiring fixed infrastructure or battery swapping.
+This project presents a complete prototype of a **Pay-As-You-Go (PAYG) charging system** designed to enable flexible, low-cost access to energy without requiring fixed infrastructure or battery swapping.
 
 The system allows users to **start and pay for charging sessions via mobile payment and messaging platforms (e.g. WhatsApp)**. Once a payment is completed, the backend authorizes the charging process, and the connected hardware enables power delivery accordingly.
 
