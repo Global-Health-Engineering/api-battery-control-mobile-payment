@@ -2,6 +2,9 @@
   <img width="538" alt="System Image" src="https://github.com/user-attachments/assets/a7082a3b-5d5e-4192-bf68-f2cdd62629f4" />
 </p>
 
+## ORCiD
+0009-0008-3294-6200
+
 ## PAYG Charging System – Prototype
 
 This project presents a complete prototype of a **Pay-As-You-Go (PAYG) charging system** designed to enable flexible, low-cost access to energy without requiring fixed infrastructure or battery swapping.
